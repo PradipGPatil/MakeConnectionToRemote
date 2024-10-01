@@ -1,4 +1,4 @@
 function Double(int x){
-return x*3;
+return x*2;
 }
 Double(3);
