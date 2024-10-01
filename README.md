@@ -1,2 +1,2 @@
 # MakeConnectionToRemote
-LogFile/*
+this is contain information to the user
