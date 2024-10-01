@@ -1,0 +1,4 @@
+function Double(int x){
+return x*3;
+}
+Double(3);
